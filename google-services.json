@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "963741666684",
+    "project_id": "fir-app-50f88",
+    "storage_bucket": "fir-app-50f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963741666684:android:8aedbb8f95d87c2832e8f9",
+        "android_client_info": {
+          "package_name": "com.has.anali012233.LoginPage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963741666684-2d486qjdrm8lvvean6r9rtf4c1ocbqcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.has.anali012233.LoginPage",
+            "certificate_hash": "49cc4bffc4f0ded8ac73d201a5b3c6e7b1706399"
+          }
+        },
+        {
+          "client_id": "963741666684-pcaqak1aiekh4n3nn6mu80ppmrsev5o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.has.anali012233.LoginPage",
+            "certificate_hash": "bf66d1f1a56b79358425a324b0d1893c9a4f4d73"
+          }
+        },
+        {
+          "client_id": "963741666684-gfl2387rhvv1rcptgas9ga49h5s1psf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-MTMRgT8eWk0ZFlrLcBpOvWlYPlLlZNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963741666684-gfl2387rhvv1rcptgas9ga49h5s1psf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
